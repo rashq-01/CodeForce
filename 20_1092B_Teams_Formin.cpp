@@ -15,7 +15,7 @@ int main(){
         totalProb += (arr[i+1]-arr[i]);
     }
 
-    cout<<totalProb<<endl;
+    cout<<totalProb;
 
 
     return 0;
